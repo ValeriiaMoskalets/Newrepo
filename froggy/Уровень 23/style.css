@@ -1,0 +1,26 @@
+.wrapper{ 
+    display: flex;   
+    height: 520px; 
+    width: 1000px;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column-reverse;
+} 
+.froggygreen{ 
+    background-color: green; 
+    width: 100px; 
+    height: 100px; 
+    border: 1px solid black; 
+} 
+.froggyyellow{ 
+    background-color: yellow; 
+    width: 100px; 
+    height: 100px; 
+    border: 1px solid black;
+}
+.froggyred{ 
+    background-color:red; 
+    width: 100px; 
+    height: 100px; 
+    border: 1px solid black;
+}

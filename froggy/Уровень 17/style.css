@@ -1,0 +1,19 @@
+.wrapper{ 
+    display: flex; 
+    align-items: flex-start;
+    height: 900px;
+} 
+.froggygreen{ 
+    background-color: green; 
+    width: 50px; 
+    height: 50px; 
+    border: 1px solid black; 
+} 
+.froggyyellow{ 
+    background-color: yellow; 
+    width: 50px; 
+    height: 50px; 
+    border: 1px solid black;
+    order: 1;   
+    align-self: flex-end;
+}

@@ -1,0 +1,24 @@
+.wrapper{ 
+    display: flex; 
+    flex-direction: row-reverse; 
+    width: auto;
+} 
+.froggy1{ 
+    background-color: green; 
+    width: 50px; 
+    height: 50px; 
+    border: 1px solid black; 
+     
+} 
+.froggy2{ 
+    background-color: yellow; 
+    width: 50px; 
+    height: 50px; 
+    border: 1px solid black;   
+} 
+.froggy3{ 
+    background-color:red; 
+    width: 50px; 
+    height: 50px; 
+    border: 1px solid black;   
+}
