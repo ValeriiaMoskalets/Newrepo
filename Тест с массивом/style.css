@@ -1,0 +1,21 @@
+body{
+	display: flex;
+	align-items: center;
+	flex-direction: column-reverse;
+    justify-content: center;
+    margin-top: 35px;
+	margin-left: -1000px;
+    margin-right: -1000px;
+    font-size: 20px;
+}
+.table {
+    margin-left: 24px;
+}
+button {
+    background-color:#95e795;
+    border: 1px solid black;
+    font-size: 20px;
+    margin-top: 10px;
+    height: 40px;
+    width: 170px;
+}
