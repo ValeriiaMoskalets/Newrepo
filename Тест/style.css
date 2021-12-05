@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 20px;
+}
+.table {
+    margin-left: 885px;
+}
+button {
+    background-color:#95e795;
+    border: 1px solid black;
+    font-size: 23px;
+    margin-top: 10px;
+    height: 40px;
+    width: 170px;
+}
